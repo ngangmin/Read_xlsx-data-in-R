@@ -1,1 +1,1 @@
-# Business-Analytics-with-R
+# Reading and manipulating xlsx data with R
